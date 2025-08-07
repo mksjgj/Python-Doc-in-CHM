@@ -17,9 +17,9 @@
 * 2024-10-29: V1.0.2 add Chinese version
 * 2024-11-13: V1.0.3 add more content items from headerlink
 * 2024-12-29: V1.0.4 add 3rd resource: awesome-python, use new fts stop word file
-* 2025-02-17: V1.0.5 add 3rd resource: "A Byte of Python"
+* 2025-02-17: V1.0.5 add 3rd resource: "A Byte of Python"<br>
                      Python doc ver: 3.11.11, 3.12.9, 3.13.2 ( English & Chinese)
-* 2025-04-10: V1.10 Modify the naming convention to "Python 3.11.x Core Reference and Examples v1.10"  
-                  Add quick reference table to pages with headerlinks to make it easier to see the important terms on the page
+* 2025-04-10: V1.10 Modify the naming convention to "Python 3.11.x Core Reference and Examples v1.10"<br>
+                  Add quick reference table to pages with headerlinks to make it easier to see the important terms on the page<br>
                   Python doc ver: 3.11.11, 3.12.10, 3.13.3 ( English & Chinese) 
 

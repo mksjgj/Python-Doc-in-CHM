@@ -1,4 +1,4 @@
-# Python 3.12.x Core Reference and Examples
+# Python Core Reference and Examples
 
 * This CHM package is a comprehensive learning and reference handbook for Python programming language. 
 * This handbook is based on the Python official documentation, and integrates many excellent third-party free resources such as "A Byte of Python" and "Awesome-Python". 
